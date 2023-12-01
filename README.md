@@ -2,6 +2,6 @@
 Team consisting of people that have a repository
 
 
-The Team Members are:
+Team Team's Members are:
 <p>Orlando Ballard</p>
 <p>Alexander Photiou</p>
