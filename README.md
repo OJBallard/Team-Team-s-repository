@@ -1,5 +1,5 @@
 # Team-Team-s-repository
-Team consisting of people that have a repository and would really like not to have one 
+Team consisting of people that have a repository 
 
 
 Team Team's Members are:)
